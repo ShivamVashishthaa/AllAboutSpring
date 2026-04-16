@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AllAboutSpring.iml" filepath="$PROJECT_DIR$/.idea/AllAboutSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filterInterceptorAndAOP.main.iml" filepath="$PROJECT_DIR$/.idea/modules/filterInterceptorAndAOP.main.iml" />
     </modules>
   </component>
 </project>

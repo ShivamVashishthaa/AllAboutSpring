@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: conditionalBeanCreation
+  profiles:
+    active: dev
+
+feature:
+  enabled: true
+
+custom:
+  value: 10
+  flag: true
